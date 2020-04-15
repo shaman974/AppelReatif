@@ -1,0 +1,3 @@
+api:
+  adresse:
+    url: https://api-adresse.data.gouv.fr/search

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "version": "draft",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.501634,
+          -21.239972
+        ]
+      },
+      "properties": {
+        "label": "Chemin Totor 97430 Le Tampon",
+        "score": 0.6856809227159816,
+        "id": "97422_1898",
+        "type": "street",
+        "x": 344513.7,
+        "y": 7650556.97,
+        "importance": 0.5424901498757989,
+        "name": "Chemin Totor",
+        "postcode": "97430",
+        "citycode": "97422",
+        "city": "Le Tampon",
+        "context": "974, La Réunion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.035944,
+          5.489728
+        ]
+      },
+      "properties": {
+        "label": "Rue Nestor Toto 97320 Saint-Laurent-du-Maroni",
+        "score": 0.6830998620423379,
+        "id": "97311_0207",
+        "type": "street",
+        "x": 163558.99,
+        "y": 607651.84,
+        "importance": 0.5140984824657174,
+        "name": "Rue Nestor Toto",
+        "postcode": "97320",
+        "citycode": "97311",
+        "city": "Saint-Laurent-du-Maroni",
+        "context": "973, Guyane"
+      }
+    }
+  ],
+  "attribution": "BAN",
+  "licence": "ETALAB-2.0",
+  "query": "toto",
+  "limit": 5
+}
